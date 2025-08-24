@@ -1,19 +1,19 @@
-# 🏨 SwiftStay - Hotel Management System
+# SwiftStay - Hotel Management System
 
-A modern, full-stack hotel management application built with React and Node.js, featuring real-time guest management, admin dashboard, and mobile-responsive design.
+A modern, full-stack hotel management application I built using React and Node.js. This project features real-time guest management, a comprehensive admin dashboard, and a mobile-responsive design that works seamlessly across all devices.
 
 ![SwiftStay Logo](client/public/images/swiftstay-logo.svg)
 
-## ✨ Features
+## Features
 
-### 🏠 Guest Features
-- **Self Check-in System** - Streamlined guest registration
-- **My Stay Dashboard** - Real-time stay information
+### Guest Features
+- **Self Check-in System** - Streamlined guest registration process
+- **My Stay Dashboard** - Real-time access to stay information
 - **Trip Planner** - Interactive travel planning tools
 - **Contact & Support** - Direct communication channels
 - **Mobile Responsive** - Perfect experience on all devices
 
-### 👨‍💼 Admin Portal
+### Admin Portal
 - **Real-time Dashboard** - Live statistics and metrics
 - **Guest Management** - Complete guest lifecycle management
 - **Room Inventory** - 100 rooms across 5 categories
@@ -23,14 +23,14 @@ A modern, full-stack hotel management application built with React and Node.js, 
 - **Service Requests** - Pending requests management
 - **Notifications** - Real-time alerts and updates
 
-## 🚀 Live Demo
+## Live Demo
 
 **Main Application**: [http://localhost:3000](http://localhost:3000)
 **Admin Login**: [http://localhost:3000/admin/login](http://localhost:3000/admin/login)
 - Username: `admin`
 - Password: `admin123`
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React 19** - Modern UI framework
@@ -46,7 +46,7 @@ A modern, full-stack hotel management application built with React and Node.js, 
 - **JWT** - Authentication
 - **bcryptjs** - Password hashing
 
-## 📱 Screenshots
+## Screenshots
 
 ### Guest Interface
 - Homepage with hotel information
@@ -61,7 +61,7 @@ A modern, full-stack hotel management application built with React and Node.js, 
 - Revenue analytics
 - Service request management
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -71,8 +71,8 @@ A modern, full-stack hotel management application built with React and Node.js, 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/swiftstay.git
-cd swiftstay
+git clone https://github.com/ifabato/swiftstay-hotel-management.git
+cd swiftstay-hotel-management
 ```
 
 2. **Install dependencies**
@@ -96,7 +96,7 @@ npm start
 - Open [http://localhost:3000](http://localhost:3000)
 - For admin access: [http://localhost:3000/admin/login](http://localhost:3000/admin/login)
 
-## 📊 System Architecture
+## System Architecture
 
 ### Real-time Features
 - Live guest check-in/out updates
@@ -110,7 +110,7 @@ npm start
 - Cross-component synchronization
 - State management with React Context
 
-## 🎨 UI/UX Highlights
+## UI/UX Highlights
 
 - **Professional Design** - Clean, modern interface
 - **Mobile-First** - Responsive across all devices
@@ -118,7 +118,7 @@ npm start
 - **Performance** - Optimized for speed
 - **User Experience** - Intuitive navigation
 
-## 🔧 Development
+## Development
 
 ### Project Structure
 ```
@@ -140,7 +140,7 @@ swiftstay/
 - `npm run build` - Build for production
 - `npm test` - Run tests
 
-## 🌟 Key Features in Detail
+## Key Features in Detail
 
 ### Real-time Data Sync
 - Guest check-ins update admin dashboard instantly
@@ -161,7 +161,7 @@ swiftstay/
 - PWA-ready architecture
 - Cross-browser compatibility
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -169,17 +169,17 @@ swiftstay/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+## Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Ifa Bato**
+- GitHub: [@ifabato](https://github.com/ifabato)
+- LinkedIn: [Ifa Bato](https://www.linkedin.com/in/ifa-bato)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Material-UI for the component library
 - React team for the amazing framework
@@ -188,6 +188,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**SwiftStay** - Revolutionizing hotel management with modern technology! 🏨✨
+**SwiftStay** - Revolutionizing hotel management with modern technology!
 
-*Built with ❤️ using React & Node.js* 
+*Built with React & Node.js* 
